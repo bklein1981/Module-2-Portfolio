@@ -12,3 +12,5 @@ N/A
 Use the navigation buttons at the top of the site to navigate to specific sections:
 
 ![Navigation Image](Assets/Images/NavImage.png)
+
+git location: https://github.com/bklein1981/Module-2-Portfolio
