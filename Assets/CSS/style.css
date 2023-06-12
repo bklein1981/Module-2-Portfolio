@@ -189,46 +189,6 @@ footer a:hover {
     font-size: x-large;
 }
 
-
-/* Section Content 
-section h2 {
-    margin: 10px 15px;
-}
-section p {
-    margin: 0px 25px;
-}
-
-
-.flex {
-    margin: 15px;
-    display: flex;
-    justify-content: center;
-}
-
-.proj-container {
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-}
-
-.firstcard img{
-    width: 710px;
-    border: solid 5px #d3d3d3
-}
-
-a:hover img {
- opacity: 50%;
-}
-
-.firstcard h2 {
-    background-color: #FFA500;
-    color: #fff;
-    margin: 0px;
-    padding: 0px 5px
-  }
-  */
 @media screen and (max-width: 980px) {
   .portfolio {
     display: block;
